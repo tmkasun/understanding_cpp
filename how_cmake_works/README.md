@@ -34,6 +34,12 @@ To build the program using the underline build tool (in this case make), Use the
 ```shell
 cmake --build build_dir/ --target sampleTarget
 ```
+You could pass the underline built tool command parameters after `--` seperator
+i:e
+
+```
+cmake --build build_dir/ --target sampleTarget -- -j4
+```
 
 This will build the given target `sampleTarget` , And you could find the binary file with the target name `sampleTarget` inside the `/how_cmake_works/build_dir` directory.
 
