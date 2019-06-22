@@ -1,4 +1,7 @@
 # What is this?
+## In short
+
+This is just a, very very . . . simple C++ and CMake testing application
 
 I have created this repo as a scratch pad for learning and doing experiments about C++ and it's related tool sets. I have pointed to some of the articles that i found very usefull in my learning process.
 
